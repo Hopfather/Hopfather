@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hopfather 
-- 👀 I’m interested in ...learning more about coding and eventually decide on a niche. 
-- 🌱 I’m currently learning ...CS50 and freecodecamp.
+- 👀 I’m interested in ...learning more about coding and eventually deciding on a niche. 
+- 🌱 I’m currently learning ...The Odin Project
 - 💞️ I’m looking to collaborate on ...any advice or direction to resources for self-learners. 
 - 📫 How to reach me ...send me a message on Github!
 - 😄 Pronouns: ...He/Him
